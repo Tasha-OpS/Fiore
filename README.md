@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="Fiore.png" width="200"/>
+  <img src="Fiore.png" width="300"/>
 </p>
 
 # Fiore
